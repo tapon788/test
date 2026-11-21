@@ -6,7 +6,7 @@
 
 ### 2. Data Processing
 
-![Data Processing](docs/screenshots/post_check_analyzer_02.jpg
+![Data Processing](docs/screenshots/post_check_analyzer_02.jpg)
 
 ### 3. Analysis Results
 
